@@ -2,3 +2,4 @@
 1. [Whitepapers](https://github.com/dattgoswami/whitepapers_crypto)
 2. [Reports](https://github.com/dattgoswami/crypto_reports)
 3. [Ethereum Security](https://github.com/dattgoswami/ethereum_security)
+4. [Rust Books](https://github.com/dattgoswami/rust_books)
