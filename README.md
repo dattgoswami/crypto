@@ -9,4 +9,4 @@
 8. Oct 2020 [Bitcoind's rpcs call data parser - python](https://github.com/dattgoswami/BitChainAnalyzer)
 9. Oct 2021 [Crypto Metrics - Messari API - python](https://github.com/dattgoswami/CryptoMetrics)
 10. Jan 2024 [SUI Bootcamp - Web3 Builders Alliance - Move](https://github.com/dattgoswami/DattGoswami.Q1.Sui.PreR)
-11. Jan 2024 [Solana Bootcamp - RiseIn - Rust](https://github.com/dattgoswami/FinalProject-RiseIn-Bootcamp)
+11. Jan 2024 [Solana Bootcamp - RiseIn - Rust](https://github.com/dattgoswami/risein-solana-bootcamp)
