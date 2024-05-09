@@ -10,3 +10,4 @@
 9. Oct 2021 [Crypto Metrics - Messari API - python](https://github.com/dattgoswami/CryptoMetrics)
 10. Jan 2024 [SUI Bootcamp - Web3 Builders Alliance - Move](https://github.com/dattgoswami/DattGoswami.Q1.Sui.PreR)
 11. Jan 2024 [Solana Bootcamp - RiseIn - Rust](https://github.com/dattgoswami/risein-solana-bootcamp)
+12. May 2024 [WBA Solana Bootcamp](https://github.com/dattgoswami/wba-solana-q2-2024)
