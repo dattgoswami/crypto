@@ -11,3 +11,7 @@
 10. Jan 2024 [SUI Bootcamp - Web3 Builders Alliance - Move](https://github.com/dattgoswami/DattGoswami.Q1.Sui.PreR)
 11. Jan 2024 [Solana Bootcamp - RiseIn - Rust](https://github.com/dattgoswami/risein-solana-bootcamp)
 12. May 2024 [WBA Solana Bootcamp](https://github.com/dattgoswami/wba-solana-q2-2024)
+13. May 2024 [Solana Thesis](https://datt.substack.com/p/how-is-solana-front-running-ethereum)
+14. April 2024 [SUI Thesis](https://482ventures.substack.com/p/why-sui)
+15. Jan 2024 [SEI Thesis](https://482ventures.substack.com/p/what-sei)
+16. May 2024 [Solana Notes](https://github.com/dattgoswami/solana-notes)
