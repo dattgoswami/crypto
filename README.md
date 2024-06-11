@@ -15,3 +15,4 @@
 14. May 2024 [Solana Bootcamp WBA](https://github.com/dattgoswami/wba-solana-q2-2024)
 15. May 2024 [Solana Thesis](https://datt.substack.com/p/how-is-solana-front-running-ethereum)
 16. May 2024 [Solana Notes](https://github.com/dattgoswami/solana-notes)
+17. June 2024 [Transaction Inclusion in Solana](https://medium.com/@dattgoswami/understanding-transaction-inclusion-in-solana-from-wallets-to-validators-9e412ae792b3)
