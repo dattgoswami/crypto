@@ -18,3 +18,5 @@
 17. May 2024 [Solana Notes](https://github.com/dattgoswami/solana-notes)
 18. June 2024 [Transaction Inclusion in Solana](https://medium.com/@dattgoswami/understanding-transaction-inclusion-in-solana-from-wallets-to-validators-9e412ae792b3)
 19. June/July 2024 [Solana Bootcamp Capstone - Web3 Builders Alliance](https://github.com/Web3-Builders-Alliance/Datt_Sol_2Q24)
+20. [Trading Path Finding - Routing - {Origin, Destination}](https://github.com/dattgoswami/flight-path-service)
+21. [Social Trading based on Stocks bought/sold by your friends](https://github.com/dattgoswami/FriendFolio)
