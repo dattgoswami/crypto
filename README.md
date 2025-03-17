@@ -23,8 +23,7 @@
 22. Aug/Sep 2024 [Invoke Context Notes - Solana SVM - Turbin3](https://github.com/dattgoswami/solana-notes/blob/main/invoke_context.md)
 23. Aug/Sep 2024 [Replay Stage Notes - Solana TVU - Turbin3](https://github.com/dattgoswami/solana-notes/blob/main/replay_stage.md)
 24. Sep 2024 [Moar Rust Resources](https://github.com/dattgoswami/rust-solana-anchor-resources/blob/main/Rust_Resources.md)
-26. Sep 2024 [Solana / Anchor Resources](https://github.com/dattgoswami/rust-solana-anchor-resources/blob/main/Solana_Anchor_Resources.md)
-27. Sep 2024 [Magic Block Resources](https://github.com/dattgoswami/rust-solana-anchor-resources/blob/main/MagicBlock_Resources.md)
+25. Sep 2024 [Solana / Anchor Resources](https://github.com/dattgoswami/rust-solana-anchor-resources/blob/main/Solana_Anchor_Resources.md)
     
 Miscellaneous:
 - [Trading Path Finding - Routing - {Origin, Destination}](https://github.com/dattgoswami/flight-path-service)
