@@ -6,7 +6,7 @@
 5. [Move Resources](https://medium.com/@dattgoswami/mastering-move-your-gateway-to-the-sui-blockchain-1082a21467a8)
 6. [Data Dashboards](https://medium.com/@dattgoswami/data-portals-platforms-dashboards-to-keep-track-of-what-is-happening-in-the-crypto-space-and-get-631160ab5bb4)
 7. [Solana Projects/DApps](https://medium.com/@dattgoswami/new-dapps-products-to-try-on-solana-as-the-defi-summer-of-solana-is-approaching-eth-defi-summer-b9279092ea4f)
-8. [SCION New Internet]()
+8. [SCION New Internet](https://github.com/dattgoswami/SCION)
 9. Oct 2017 [Assignments for Bitcoin and Cryptocurrency Technologies taught by Coursera - Java](https://github.com/dattgoswami/Coursera_Bitcoin_and_Cryptocurrency_Technologies)
 10. Oct 2020 [Bitcoind's rpc call data parser - python](https://github.com/dattgoswami/BitChainAnalyzer)
 11. Oct 2021 [Crypto Metrics - Messari API - python](https://github.com/dattgoswami/CryptoMetrics)
