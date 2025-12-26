@@ -23,7 +23,7 @@
 22. Aug/Sep 2024 [Advance Rust for Solana - Solana Turbine/Web3 Builders Alliance](https://github.com/dattgoswami/advance-rust-solana-turbine)
 23. Aug/Sep 2024 [Invoke Context Notes - Solana SVM - Turbin3](https://github.com/dattgoswami/solana-notes/blob/main/invoke_context.md)
 24. Aug/Sep 2024 [Replay Stage Notes - Solana TVU - Turbin3](https://github.com/dattgoswami/solana-notes/blob/main/replay_stage.md)
-25. Sep 2024 [Moar Rust Resources](https://github.com/dattgoswami/rust-solana-anchor-resources/blob/main/Rust_Resources.md)
+25. Sep 2024 [More Rust Resources](https://github.com/dattgoswami/rust-solana-anchor-resources/blob/main/Rust_Resources.md)
 26. Sep 2024 [Solana / Anchor Resources](https://github.com/dattgoswami/rust-solana-anchor-resources/blob/main/Solana_Anchor_Resources.md)
 27. Nov 2025 [ZKStuff](https://github.com/dattgoswami/ZKStuff/)
 28. Nov 2025 [SCION New Internet](https://github.com/dattgoswami/SCION)
