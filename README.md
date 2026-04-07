@@ -1,4 +1,5 @@
 # Crypto Links
+- Aug 2024 - April 2026 [SVM Layer 2 - Optimistic Rollup](https://github.com/dattgoswami/SVM-L2-Optimistic-Rollup)
 1. [Whitepapers](https://github.com/dattgoswami/whitepapers_crypto)
 2. [Reports](https://github.com/dattgoswami/crypto_reports)
 3. [Ethereum Security](https://github.com/dattgoswami/ethereum_security)
@@ -27,6 +28,7 @@
 26. Sep 2024 [Solana / Anchor Resources](https://github.com/dattgoswami/rust-solana-anchor-resources/blob/main/Solana_Anchor_Resources.md)
 27. Nov 2025 [ZKStuff](https://github.com/dattgoswami/ZKStuff/)
 28. Nov 2025 [SCION New Internet](https://github.com/dattgoswami/SCION)
+    
     
 Miscellaneous:
 - [Trading Path Finding - Routing - {Origin, Destination}](https://github.com/dattgoswami/flight-path-service)
