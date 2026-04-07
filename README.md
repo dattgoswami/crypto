@@ -1,5 +1,5 @@
 # Crypto Links
-- Aug 2024 - April 2026 [SVM Layer 2 - Optimistic Rollup](https://github.com/dattgoswami/SVM-L2-Optimistic-Rollup)
+- Aug 2024 - April 2026 [SVM Layer 2 - Optimistic Rollup](https://github.com/dattgoswami/SVM-L2-Optimistic-Rollup) - Proof-of-concept SVM optimistic rollup: Agave 2.3.x off-chain execution, Solana L1 settlement, and Celestia DA.
 1. [Whitepapers](https://github.com/dattgoswami/whitepapers_crypto)
 2. [Reports](https://github.com/dattgoswami/crypto_reports)
 3. [Ethereum Security](https://github.com/dattgoswami/ethereum_security)
