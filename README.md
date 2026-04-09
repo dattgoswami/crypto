@@ -1,4 +1,5 @@
 # Crypto Links
+- 2026 [ferrum-mcp](https://github.com/dattgoswami/ferrum-mcp) MCP server that gives AI agents (Claude, LangGraph) real-time access to crypto prices(CoinGecko), DeFi yield/risk analytics (DefiLlama), Solana wallet positions(RPC), and semantic memory — over stdio or HTTP.
 - Aug 2024 - April 2026 [SVM Layer 2 - Optimistic Rollup](https://github.com/dattgoswami/SVM-L2-Optimistic-Rollup) - Proof-of-concept SVM optimistic rollup: Agave 2.3.x off-chain execution, Solana L1 settlement, and Celestia DA.
 1. [Whitepapers](https://github.com/dattgoswami/whitepapers_crypto)
 2. [Reports](https://github.com/dattgoswami/crypto_reports)
