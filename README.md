@@ -33,6 +33,7 @@
 ](https://medium.com/@dattgoswami/building-an-svm-layer-2-how-i-wired-agaves-transactionbatchprocessor-into-an-optimistic-rollup-042227042b48)
 30. Q2 2026 [Building ferrum-mcp: A Production-Grade Rust MCP Server for AI Agents in Crypto and DeFi](https://medium.com/@dattgoswami/building-ferrum-mcp-a-production-grade-rust-mcp-server-for-ai-agents-in-crypto-and-defi-bba845dd14da)
 31. Q2 2026 [MCP Patterns for DeFi Agents in Rust](https://medium.com/@dattgoswami/mcp-patterns-for-defi-agents-in-rust-931cec1cb6f8)
+32. Q2 2026 [When Code Must Not Fail: Engineering Software for Mission-Critical Systems - Lessons from 60 years of NASA's hardest-won software engineering experience](https://datt.substack.com/p/when-code-must-not-fail-engineering)
     
     
 Miscellaneous:
