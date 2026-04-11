@@ -29,6 +29,10 @@
 26. Sep 2024 [Solana / Anchor Resources](https://github.com/dattgoswami/rust-solana-anchor-resources/blob/main/Solana_Anchor_Resources.md)
 27. Nov 2025 [ZKStuff](https://github.com/dattgoswami/ZKStuff/)
 28. Nov 2025 [SCION New Internet](https://github.com/dattgoswami/SCION)
+29. Q2 2026 [Building an SVM Layer 2: How I Wired Agave’s TransactionBatchProcessor Into an Optimistic Rollup
+](https://medium.com/@dattgoswami/building-an-svm-layer-2-how-i-wired-agaves-transactionbatchprocessor-into-an-optimistic-rollup-042227042b48)
+30. Q2 2026 [Building ferrum-mcp: A Production-Grade Rust MCP Server for AI Agents in Crypto and DeFi](https://medium.com/@dattgoswami/building-ferrum-mcp-a-production-grade-rust-mcp-server-for-ai-agents-in-crypto-and-defi-bba845dd14da)
+31. Q2 2026 [MCP Patterns for DeFi Agents in Rust](https://medium.com/@dattgoswami/mcp-patterns-for-defi-agents-in-rust-931cec1cb6f8)
     
     
 Miscellaneous:
